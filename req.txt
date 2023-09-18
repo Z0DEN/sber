@@ -1,3 +1,4 @@
 yahoo_fin
+matplotlib
 yfinance
 PyQt5
